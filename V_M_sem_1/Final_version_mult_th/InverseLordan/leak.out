@@ -1,0 +1,9 @@
+# LeakReport
+# from new @ |      size  # Pointer Addr
+L   0x40aa26       64800  # 0x7f87040008c0
+L   0x40aabf     2160000  # 0x7f870b0a7010
+L   0x40aa36       64800  # 0x7f87040105f0
+# total allocation requests:     51 ; max. mem used 283549 kBytes
+# leak 2289600 Bytes	:-(
+# .. that is 2235 kByte!! A lot ..
+WORK TIME - 00:00:09.22
